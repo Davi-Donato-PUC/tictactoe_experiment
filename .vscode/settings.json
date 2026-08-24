@@ -1,0 +1,21 @@
+{
+  "chat.disableAIFeatures": false,
+  "files.exclude": {
+    "**/.vscode/settings.json": true,
+    "**/.claude": true,
+    "**/.github/copilot-instructions.md": true,
+    "**/.github/instructions": true,
+    "**/AGENTS.md": true,
+    "**/CLAUDE.md": true,
+    "**/GEMINI.md": true
+  },
+  "search.exclude": {
+    "**/.vscode/settings.json": true,
+    "**/.claude": true,
+    "**/.github/copilot-instructions.md": true,
+    "**/.github/instructions": true,
+    "**/AGENTS.md": true,
+    "**/CLAUDE.md": true,
+    "**/GEMINI.md": true
+  }
+}
