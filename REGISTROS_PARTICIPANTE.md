@@ -29,3 +29,28 @@ Caso utilize este espaço, organize o conteúdo da maneira que preferir.
 ---
 
 Registros
+
+Davi Donato 2320399 ================================================= >>>
+
+
+antes de qualquer modificação ou implementação, verifico todos os arquivos e estrutura do projeto.
+
+entendo a logica do codigo
+
+para as funções js que não conheço pesquiso a documentaçao no navegador e deico um comentário para lembrar sua funcionalidade
+
+percebo uqe o undo e redo pode ser feito com apenas um botao que muda de estado
+
+em script.js as funções nao tem comentários. Coloco os comentários
+
+em game.js adiciono mais uma função de suporte para as novas features
+
+tem algumas funçoes grandes no projeto padrão quebro elas e divido as operações
+
+
+Apenas pesquisei a documentação da função .slice() de js, de resto fiquei totalmente no vscode
+
+A aplicação funcionou perfeitamente, e com as duas funções implementadas seguindo todos os requisitos
+
+
+

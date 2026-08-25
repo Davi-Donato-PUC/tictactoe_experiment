@@ -16,7 +16,7 @@ function createInitialState() {
     gameOver: false,
   };
 }
-
+ 
 /**
  * Returns the next player given the current one.
  * @param {'X'|'O'} current
@@ -36,10 +36,18 @@ function getNextPlayer(current) {
 function applyMove(board, index, player) {
   if (index < 0 || index > 8) return null;
   if (board[index] !== '')    return null;
-  const next = board.slice();
+  const next = board.slice(); // cópia
   next[index] = player;
   return next;
 }
+
+function applyUndoRedo(board, index, player) {
+  if (index < 0 || index > 8) return null;
+  const next = board.slice(); // cópia
+  next[index] = player;
+  return next;
+}
+
 
 /**
  * Checks the board for a winner or draw.
@@ -62,5 +70,5 @@ function check(board) {
 
 // Allow require() in Node.js (Jest) while remaining a plain script in the browser.
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { WINNING_COMBOS, createInitialState, getNextPlayer, applyMove, check };
+  module.exports = { WINNING_COMBOS, createInitialState, getNextPlayer, applyMove, check, applyUndoRedo  };
 }
