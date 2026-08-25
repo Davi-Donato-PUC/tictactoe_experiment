@@ -6,7 +6,7 @@ Antes de iniciar o experimento, leia o Termo de Consentimento Livre e Esclarecid
 
 Leia atentamente os arquivos **`GUIA_EXECUCAO_EXPERIMENTO.md`** e **`CONFIG_GOOGLE.md`** e siga as orientações descritas neles. 
 
-Caso considere útil durante a atividade, você pode utilizar o arquivo REGISTROS_PARTICIPANTE.md para fazer anotações, rascunhos ou outros registros relacionados à sua implementação.
+Caso considere útil durante a atividade, você pode utilizar o arquivo REGISTROS_PARTICIPANTE.md para fazer anotações, anotar refatorações, rascunhos ou outros registros relacionados à sua implementação.
 
 Após concluir essas etapas, continue com as instruções deste `README.md`.
 
