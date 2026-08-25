@@ -2,7 +2,9 @@
 
 ## Antes de começar
 
-Antes de iniciar a atividade, leia atentamente os arquivos **`GUIA_EXECUCAO_EXPERIMENTO.md`** e **`CONFIG_GOOGLE.md`** e siga as orientações descritas neles.
+Antes de iniciar o experimento, leia o Termo de Consentimento Livre e Esclarecido (TCLE - https://forms.gle/yKGLiZDrLrdE98wD9) e, caso deseje autorizar o uso anonimizado dos seus dados para fins de pesquisa acadêmica, assine o termo.
+
+Leia atentamente os arquivos **`GUIA_EXECUCAO_EXPERIMENTO.md`** e **`CONFIG_GOOGLE.md`** e siga as orientações descritas neles.
 
 Após concluir essas etapas, continue com as instruções deste `README.md`.
 
